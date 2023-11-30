@@ -1,25 +1,23 @@
 body{
-    background-size: cover;
-    background-position: center;
-}
+    background-size: cover;}
 
 .heading
 {
 font-size: 40px;
 width: 100%;
 margin-top: 30px;
-color: black;
-}
-
-.a{
-    font-size: 20px;
-    border-radius: 30%;
-    background-color: white;
-    color: black;
-    
+color: lightskyblue;
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 a{
-    width: 60px;
-    height: 20px;
+    width: 200px;
+    height: 60px;
+    
+}
+
+.gdn
+{
+    font-size: 20px;
 }
